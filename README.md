@@ -1,6 +1,8 @@
 # :snake: SnakePlay
 Projeto SnakePlay apresenta uma versão mais amigável do jogo da cobrinha com alguns recursos como: permitir informar o nome do usuário, exibir mensagem na tela, botão pisca-pisca, hora, alertas sonoros. Para isso, criei as funções scoreGme, overGme, stopGme. Além disso, personalizei algumas mensagens de saída ao concluir o Jogo com Switch() case: 1 ponto (precisa melhorar!), 2 pontos (Bom!), 3 pontos (Muito Bom!) etc. Para finalizar essa primeira versão v1.0, adicionei também, alguns recursos de CSS.
 
+<img src="https://github.com/DalmoMendes/SnakePlay/blob/master/SnakePlay-on.jpg">
+
 # Mais Recursos
 <h2>Funções de Áudio</h2>
 <ul>
